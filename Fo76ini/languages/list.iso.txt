@@ -5,3 +5,4 @@ ja-JP
 it-IT
 es-ES
 tr-TR
+uk-UA
