@@ -1,8 +1,10 @@
-> **Note**  
-> **This project is currently unmaintained.**
+> [!NOTE]
+> **This project is unmaintained.**
+>
+> If you're looking for version 2, click here: [QuickConfiguration2](https://github.com/FelisDiligens/QuickConfiguration2)
 > 
-> If anyone is interested in continuing development, feel free to fork it.
-> I'll also try to merge pull requests, whenever I have the time.
+> If anyone is interested in continuing development of version 1, feel free to fork it.
+> However, there will be no more updates here.
 
 ---
 

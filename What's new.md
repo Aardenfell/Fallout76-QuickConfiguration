@@ -1,3 +1,10 @@
+### v1 is discontinued, v2 is now in beta.
+
+v1.x.x will not receive updates anymore.
+You can download v2 from [GitHub](https://github.com/FelisDiligens/QuickConfiguration2/releases/latest) or [NexusMods](https://www.nexusmods.com/fallout76/mods/546?tab=files#mod-page-tab-files).
+
+---
+
 ### What's new in v1.12.9?
 
 Added/fixed a few tweaks and fixed the NexusMods profile picture not loading in.
